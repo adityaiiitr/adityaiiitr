@@ -2,7 +2,9 @@
 
 [![YouTube Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Mishra-Blue)](https://www.linkedin.com/in/am-adityam/)
 [![Linkedin Badge](https://img.shields.io/badge/CodeChef-Dokkaebi-Blue)](https://www.codechef.com/users/dokkaebi)
-[![Website Badge](https://img.shields.io/badge/website-Aditya%20Mishra-Blue)](https://adityaiiitr.github.io/Portfolio_Website)
+[![Website Badge](https://img.shields.io/badge/website-Aditya%20Mishra-Blue)](https://adityaiiitr.github.io/Portfolio_Bootstrap)
+[![GeeksForGeeks Badge](https://img.shields.io/badge/GeeksForGeeks-adityaiiitr-green)](https://auth.geeksforgeeks.org/user/adityaiiitr)
+
 
 I'm
 MERN Stack Web Developer
