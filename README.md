@@ -1,10 +1,10 @@
-### Hi Developers 👋
+![image](https://github.com/adityaiiitr/adityaiiitr/assets/97900837/d2544a3d-d98c-4030-a1bf-95f40266397a)![image](https://github.com/adityaiiitr/adityaiiitr/assets/97900837/5ba08030-181f-44b5-b62d-89c077f2228a)### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Mishra-Blue)](https://www.linkedin.com/in/am-adityam/)
 [![Linkedin Badge](https://img.shields.io/badge/CodeChef-Dokkaebi-Blue)](https://www.codechef.com/users/dokkaebi)
-[![Website Badge](https://img.shields.io/badge/website-Aditya%20Mishra-Blue)](https://adityaiiitr.github.io/Portfolio_Bootstrap)
+[![Website Badge](https://img.shields.io/badge/website-Aditya%20Mishra-Blue)](https://adityaiiitr.in/)
 [![GeeksForGeeks Badge](https://img.shields.io/badge/GeeksForGeeks-adityaiiitr-green)](https://auth.geeksforgeeks.org/user/adityaiiitr)
-[![Resume](https://img.shields.io/badge/Resume-View-green)](https://drive.google.com/file/d/1tRk7NISS1eSbE7U7aWB2Zlw1J9iR1NE8/view)
+[![Resume](https://img.shields.io/badge/Resume-View-green)](https://drive.google.com/file/d/1cYgeoSBailiH68iu7re3s6tKp4KlZxG4/view)
 
 
 
