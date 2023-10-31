@@ -16,7 +16,7 @@ The crossover between design and programming has always been of interest to me, 
 - 👀 I’m interested in web development and web designing.
 - 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on any project related to the topic above.
-- 📫 How to reach me adityaiiitr@gmail.com
+- 📫 How to reach me contact@adityaiiitr.in
 
 
 ![Visitor Count](https://profile-counter.glitch.me/adityaiiitr/count.svg)
