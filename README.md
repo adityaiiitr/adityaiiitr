@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/CodeChef-Dokkaebi-Blue)](https://www.codechef.com/users/dokkaebi)
 [![Website Badge](https://img.shields.io/badge/website-Aditya%20Mishra-Blue)](https://adityaiiitr.in/)
 [![GeeksForGeeks Badge](https://img.shields.io/badge/GeeksForGeeks-adityaiiitr-green)](https://auth.geeksforgeeks.org/user/adityaiiitr)
-[![Resume](https://img.shields.io/badge/Resume-View-green)](https://drive.google.com/file/d/1cYgeoSBailiH68iu7re3s6tKp4KlZxG4/view)
+[![Resume](https://img.shields.io/badge/Resume-View-green)](https://drive.google.com/file/d/1brHSENFU36MwQ4b1z780ipjRpSRSRS5W/view)
 
 
 
