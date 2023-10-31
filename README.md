@@ -1,4 +1,4 @@
-![image](https://github.com/adityaiiitr/adityaiiitr/assets/97900837/d2544a3d-d98c-4030-a1bf-95f40266397a)![image](https://github.com/adityaiiitr/adityaiiitr/assets/97900837/5ba08030-181f-44b5-b62d-89c077f2228a)### Hi Developers 👋
+### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Mishra-Blue)](https://www.linkedin.com/in/am-adityam/)
 [![Linkedin Badge](https://img.shields.io/badge/CodeChef-Dokkaebi-Blue)](https://www.codechef.com/users/dokkaebi)
